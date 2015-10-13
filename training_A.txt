@@ -1,0 +1,10 @@
+﻿Aaron, Eugene Murray  [1852-1940]
+  <date>1884</date>a.	<title>Erycides okeechobee, Worthington</title>. <journal>Papilio</journal> <volume>4</volume>(<issue>1</issue>): <pages>22</pages> <note>(20 February) [Cuba]</note>
+  <date>1884</date>b.	<title>Eudamus tityrus, Fabr., and its varieties</title>. <journal>Papilio</journal> <volume>4</volume>(<issue>2</issue>): <pages>26-30</pages> <note>(15 March) [Central America, Antilles]</note>
+  <date>1885</date>.	<title>Pamphila baracoa, Luc. in Florida</title>. <journal>Papilio</journal> <volume>4</volume>(<issue>7/8</issue>): <pages>150</pages> <note>(29 January) [West Indies]</note>
+  <date>1888</date>.	<title>The determination of Hesperidae</title>. <journal>Entomologica ameri-cana</journal> <volume>4</volume>(<issue>7</issue>): <pages>142-143</pages> <note>(October) [general]</note>
+  <date>1889</date>.	<title>A vulnerable "new species"</title>. <journal>Entomologica americana</journal> <volume>5</volume>(<issue>12</issue>): <pages>221-226</pages> <note>(December) [Agraulis vanillae (Linnaeus)]</note>
+  <date>1890</date>.	<title>North American Hesperidae</title>. <journal>Entomological News</journal> <volume>1</volume>(<issue>2</issue>): <pages>23-26</pages> <note>(15 January) [Erycides urania Doubleday, Eudamus hesus Doubleday; Mexico]</note>
+  <date>1893</date>.	<title>New localities for Papilio homerus</title>. <journal>Canadian Ento-mologist</journal> <volume>25</volume>(<issue>10</issue>): <pages>258-259</pages> <note>(5 October) [Jamaica, Haiti, República Dominicana]</note>
+  <date>1894</date>.	<booktitle>The butterfly hunters in the Caribbees</booktitle>. <location>New York</location>, <publisher>Charles Scribner's Sons</publisher>. <pages>xiii + [1] + 269 pp.</pages>, <note>8 pls., 1 fig., 1 map. [general; biogeography]</note>
+  <date>1934</date>.	<title>Sex of migrating Danaus archippus (Lepid.: Danaidae)</title>. <journal>Entomological News</journal> <volume>45</volume>(<issue>5</issue>): <pages>133-134</pages> <note>([7] May) [West Indies]</note>
