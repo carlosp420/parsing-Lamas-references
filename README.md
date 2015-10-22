@@ -8,7 +8,7 @@ Requires redis, and [anystyle-parser](https://github.com/inukshuk/anystyle-parse
   butterfly names and other formatting).
 * Convert the .html file to markdown format using pandoc (avoid wrapping the lines):
   ``pandoc file.html -o file.md --no-wrap``
-* Keep only the biblio references in the .md file by removing any uninformative
+* Keep only the bibliography references in the .md file by removing any uninformative
   text. See image below:
   
 ![](https://rawgit.com/carlosp420/parsing-Lamas-references/master/media/example_of_input.png)
@@ -32,4 +32,4 @@ Text between double asterisks indicate bold font face and text between single
 asterisks indicate italics.
 
 * Find some spare time and manually tag many references so that we can use the data
-  to train the machine-learning biblio parser. Follow [this model](https://github.com/carlosp420/parsing-Lamas-references/blob/master/training_A.txt)
+  to train the machine-learning bibliography parser. Follow [this model](https://github.com/carlosp420/parsing-Lamas-references/blob/master/training_A.txt)
